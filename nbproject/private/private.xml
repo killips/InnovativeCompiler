@@ -4,10 +4,15 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/Main.java</file>
+            <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/InJavaByteCode/MainInHavaByteCode.java</file>
+            <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/Generaciya/MainGeneraciya.java</file>
             <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/TableOfRegisters.java</file>
             <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/TableIndificatorov.java</file>
             <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/Table.java</file>
+            <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/Semantika/MainSemantika.java</file>
+            <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/Leksicheskiy/MainLeksicheskiy.java</file>
             <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/TableOfInterface.java</file>
+            <file>file:/C:/Users/Пользователь/Documents/NetBeansProjects/compilyator/src/Main/Sintaksicheskiy/MainSintaksicheskiy.java</file>
         </group>
     </open-files>
 </project-private>
